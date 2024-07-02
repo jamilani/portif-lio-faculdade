@@ -1,0 +1,36 @@
+body {
+    font-family: cursive;
+    margin: 2;
+    padding: auto;
+
+ }
+
+ nav {
+    background-color:darkgrey;
+    color:black;
+    text-align: center;
+ }
+
+ nav ul {
+    list-style: none;
+    padding: 2px;;
+ }
+
+ nav ul li {
+    display: inline;
+    margin-right: 30px;
+    color:black;
+    text-align: center;
+
+ }
+
+ nav ul {
+    list-style: none;
+    padding: 1;
+ }
+
+ nav ul li a  {
+    
+    text-decoration: none;
+    color:black;
+ }
